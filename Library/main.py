@@ -13,7 +13,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemo
 import asyncio
 from rapidfuzz import fuzz
 
-TOKEN = "8057987312:AAEBMoWHsgy1pjaZ2GS7gtk7_b55az4RAlc"
+TOKEN = "BotToken"
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 

@@ -14,7 +14,7 @@ from playwright.async_api import async_playwright
 import logging
 from aiogram import loggers as aiogram_loggers
 
-TOKEN = "7628346670:AAFBAwD5IMx91YUfGixwGbdxOqCOeCEDWZ4"
+TOKEN = "BotToken"
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
